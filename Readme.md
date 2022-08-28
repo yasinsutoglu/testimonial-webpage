@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍click here to see page](https://yasinsutoglu.github.io/parallax-page/)
+[📍click here to see page](https://yasinsutoglu.github.io/testimonial-webpage/)
 
 <!-- ------------------------------------------------------ -->
 
@@ -23,12 +23,11 @@
 ```
 003-parallax-website (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
+|----readme.md                  
+|----images             
 |----solution
         |----index.html  
         |----style.css   
-        |----images
 ```
 
 <!-- --------------------------------------- -->
@@ -45,11 +44,11 @@
 
 - HTML / Semantic elements 
 
-- CSS /The Display Property-The position Property - Transform Property
+- CSS /The Display Property - Transform Property - Grid -Flexbox
 
-- Opacity - Backgroun Image CSS-Units in CSS
+- Opacity - Background Image CSS - Units in CSS - Box-Shadow in Css
 
-- CSS Setting height and width-CSS Outline-CSS Combinators - CSS Border
+- CSS Setting height and width - CSS Combinators - CSS Border
 
 ### At the end of the project, i will be able to;
 
